@@ -1,0 +1,9 @@
+platform Windows
+platform-release 10
+platform-version 10.0.18362
+architecture AMD64
+hostname LAPTOP-GS46I3NP
+ip-address 192.168.197.1
+mac-address 9e:b6:d0:0b:5f:bb
+processor Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+ram 16 GB

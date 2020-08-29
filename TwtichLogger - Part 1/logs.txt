@@ -1,0 +1,25 @@
+platform Windows
+platform-release 10
+platform-version 10.0.18362
+architecture AMD64
+hostname LAPTOP-GS46I3NP
+ip-address 192.168.197.1
+mac-address 9e:b6:d0:0b:5f:bb
+processor Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+ram 16 GB
+
+Wed, 19 Aug 2020 04:30:30: k l s d j f k s j d f l k s d j f enter 1 2 3 4 5 6 7 7 8 9 0
+Wed, 19 Aug 2020 04:31:18: t h i s space i s space t h e space f i r s t space e n r t r y
+Wed, 19 Aug 2020 04:31:28: ; l a l a l a l a l a l a l a l
+Wed, 19 Aug 2020 04:31:38: 1 2 3 4 5 5 6 7 8 9 0
+Wed, 19 Aug 2020 04:31:43: t h i s space s h i t space i s
+Wed, 19 Aug 2020 04:31:48: space w o r k i n g space n o w right shift up right shift
+Wed, 19 Aug 2020 04:32:54: k s d j f k l s j d f l k s j d f k l j s d f k j
+Wed, 19 Aug 2020 04:34:42: t h i s space i s space m o s t space p r o b a b l y space t h e space f i
+Wed, 19 Aug 2020 04:34:47: n a l space t e s t h o p i n g space t h a t space t h i s space
+Wed, 19 Aug 2020 04:34:52: w o u i l d space w o r k l a l a l a l a a
+Wed, 19 Aug 2020 04:35:19: s j d f l k s j d f k l j s d f k l j s d f enter l a l a l a l a l a enter 1 2 3 4 5 6 7 8
+Wed, 19 Aug 2020 04:36:56: f l d s k l f j s d l k f j s d k f space 1 2 3 1 2 3 1 2 3 space 1 2 3
+Wed, 19 Aug 2020 04:38:34: d k f j l s d k f j l s k d j f 1 2 3 4 5 6 7 8 9 0
+Wed, 19 Aug 2020 04:38:51: d f k l j s d k f space 1 2 3 4 5 6 7 8 9 0
+Wed, 19 Aug 2020 04:38:58: l a l a l a l a l a l
