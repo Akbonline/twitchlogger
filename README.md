@@ -11,7 +11,7 @@
 * [Disclaimer](#disclaimer)
 
 # twitchlogger
-Contains the python based Advanced Keylogger Part-1 files, livecoded during AkB_C317's twtich stream on August 18th 2020. Link to the Stream: 
+Contains the python based Advanced Keylogger Part-1 files, livecoded during AkB_C317's twtich stream on August 18th 2020. Link to the Stream: https://www.twitch.tv/videos/725629026
 
 ## Part 1:
 1. Recording the keystrokes
@@ -70,6 +70,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 My Socials:
 * gitHub: [@https://github.com/Akbonline] (https://github.com/Akbonline)
 * website: [@https://akbexpo.blogspot.com/] (https://akbexpo.blogspot.com/)
+* Twitch: [@https://www.twitch.tv/akb_c317] (https://www.twitch.tv/akb_c317)
 * YouTube: [@https://www.youtube.com/channel/UCPe0vD3pfd6WGSji2LAGufw] (https://www.youtube.com/channel/UCPe0vD3pfd6WGSji2LAGufw)
 * instagram: [@https://www.instagram.com/akbon9/] (https://www.instagram.com/akbon9/)
 * Twitter: [@https://twitter.com/akb_c317] (https://twitter.com/akb_c317)
